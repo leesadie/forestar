@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
 </p>
 
-This repository contains the base of forestʌr, a pilot web application that uses customization and location-based augmented reality to enable self-guided forest bathing.
+This repository contains the base of forestʌr, a pilot web application that uses customization and location-based augmented reality to enable self-guided forest bathing. This project was carried out with EMLx, a part of the [UBC Emerging Media Lab](https://eml.ubc.ca/), during May - August 2023.
 
 ## Background
 Forest bathing, known as shinrin yoku (森林浴), is a Japanese practice that involves immersing oneself in nature–particularly forests. Research has shown that forest bathing has the capacity to reduce stress, enhance wellbeing, and foster a deeper connection with the natural environment amidst the digital age. This project is an extension of a 2022 UBC Faculty of Forestry clinical trial conducted in Vancouver parks.
@@ -17,4 +17,4 @@ Forest bathing, known as shinrin yoku (森林浴), is a Japanese practice that i
 This project aims to pilot an immersive audio-visual guide through a mobile application to enrich the forest bathing experience by providing augmented reality (AR) overlays and interactive, multisensory content. With increasing separation from nature in the digital age, this guide looks to facilitate a deeper connection with the natural world, which has been shown to reduce stress and enhance overall wellbeing. To further enhance this sense of connection and immersion, the project intends to deliver a personalized and customizable experience based on real-time environmental data and individual user preferences.
 
 ## Prototype
-A working prototype can be found at https://needle-engine-forestspaces-638290901395762811.netlify.app/
+The initial working prototype can be found [here](https://needle-engine-forestspaces-638290901395762811.netlify.app/).
